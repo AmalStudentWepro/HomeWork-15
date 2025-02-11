@@ -7,7 +7,7 @@ let obj1 = {
 }
 
 let obj2 = {
-    name: "Arhan",
+    name: "Alex",
     balance: 5000,
     married: true,
     skills: ["JavaScript", "CSS"]
