@@ -1,16 +1,16 @@
 // 1
 let obj1 = {
-    name: "Alex",
-    age: 25,
-    isStudent: false,
-    address: { city: "New York", zip: 10001 }
+    name: "Amal",
+    age: 12,
+    isStudent: true,
+    address: { city: "Moscow" }
 }
 
 let obj2 = {
-    job: "Developer",
-    salary: 5000,
+    name: "Arhan",
+    balance: 5000,
     married: true,
-    skills: ["JavaScript", "React"]
+    skills: ["JavaScript", "CSS"]
 }
 
 // 2
@@ -41,4 +41,4 @@ console.log("1-2:", merged)
 console.log("3:", keys)
 console.log("4:", values)
 console.log("5:", types)
-// я написал цифры это означает цифра задания
+// я написал цифры это означает цифра задания (если что)
